@@ -2,7 +2,7 @@
   "name": "formulario_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://massana2110.github.io",
+  "homepage": "https://massana2110.github.io/Formulario_React",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
